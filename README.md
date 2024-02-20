@@ -28,14 +28,14 @@ prompt> ./dash
 ![image](https://github.com/JesseLee62/img-storage/blob/master/Unix-Shell/interactive-sample2.jpg)
 ****
 ### batch mode:
-#####t1.txt:   
+##### t1.txt:   
 *echo hello world  
 sleep 4  
 ls & ps -u  
 cat output.txt  
 echo hi > output.ext*
 
-#####output.txt:  
+##### output.txt:  
 *echo This is output.txt*
 
 ```bash
