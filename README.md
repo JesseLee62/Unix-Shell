@@ -29,11 +29,11 @@ prompt> ./dash
 ****
 ### batch mode:
 t1.txt: 
-*echo hello world
-sleep 4
-ls & ps -u
-cat output.txt
-echo hi > output.ext*
+*echo hello world  
+sleep 4  
+ls & ps -u  
+cat output.txt  
+echo hi > output.ext  *
 
 output.txt: 
 *echo This is output.txt*
