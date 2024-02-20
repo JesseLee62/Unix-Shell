@@ -36,7 +36,7 @@ cat output.txt
 echo hi > output.ext*
 
 ##### output.txt:  
-*echo This is output.txt*
+*This is output.txt*
 
 ```bash
 prompt> ./dash t1.txt
